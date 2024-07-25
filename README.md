@@ -46,7 +46,7 @@ This notebook offers some flexibility for customization. You can experiment with
 
 **Screenshots**
 
-![Noodle:](.My_NoodleV01.png)
+![Noodle:](My_NoodleV01.png)
 
 **Contributing**
 
