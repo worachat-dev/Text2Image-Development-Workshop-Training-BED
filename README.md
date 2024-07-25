@@ -44,6 +44,10 @@ This notebook provides a modified version of the Hyper-SDXL text-to-image pipeli
 
 This notebook offers some flexibility for customization. You can experiment with different hyperparameters and explore advanced functionalities depending on your expertise.
 
+**Screenshots**
+
+![Game Screenshot](.My_NoodleV01.png)
+
 **Contributing**
 
 We welcome contributions to this project! If you have improvements or suggestions, feel free to fork the repository and submit a pull request.
